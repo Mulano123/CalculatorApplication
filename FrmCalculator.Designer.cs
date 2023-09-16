@@ -87,7 +87,7 @@
             "-",
             "*",
             "/"});
-            this.cbOperator.Location = new System.Drawing.Point(338, 123);
+            this.cbOperator.Location = new System.Drawing.Point(373, 125);
             this.cbOperator.Name = "cbOperator";
             this.cbOperator.Size = new System.Drawing.Size(67, 30);
             this.cbOperator.TabIndex = 4;
@@ -123,7 +123,7 @@
             // 
             this.AutoScaleDimensions = new System.Drawing.SizeF(8F, 16F);
             this.AutoScaleMode = System.Windows.Forms.AutoScaleMode.Font;
-            this.ClientSize = new System.Drawing.Size(539, 434);
+            this.ClientSize = new System.Drawing.Size(507, 417);
             this.Controls.Add(this.btnEqual);
             this.Controls.Add(this.txtBoxInput2);
             this.Controls.Add(this.txtBoxInput1);
